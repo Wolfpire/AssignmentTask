@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1M3m/aMq7yq6qE4TImICneEt+csdpdaZHw+ldg3i+Jb5VLKtvbO5uVYmO1+KhMTDG8LQsSKvY9qbsO4RkdlmuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Jakub\\Codes\\C# scripts\\Specflow\\AssignmentTask\\AssignmentTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ja-k-ub\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

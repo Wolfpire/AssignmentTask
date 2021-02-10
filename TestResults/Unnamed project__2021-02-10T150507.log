@@ -1,0 +1,286 @@
+﻿2021-02-10T15:05:07.6472238+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-02-10T15:05:07.6474259+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.6.2 in Framework net50 in x64 mode execution started
+2021-02-10T15:05:07.6474303+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-02-10T15:05:07.6494199+01:00;VSTestExecutionThread;Info;Current UserName: 'Ja-k-ub', MachineName: 'DESKTOP-PS8BD4E'
+2021-02-10T15:05:07.6834944+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\SpecFlowAssignmentTask.Specs.dll
+2021-02-10T15:05:07.6837698+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Jakub\Codes\C# scripts\Specflow\AssignmentTask\TestResults" (default)
+2021-02-10T15:05:07.6838430+01:00;VSTestExecutionThread;Info;Profile: 
+2021-02-10T15:05:07.7367291+01:00;VSTestExecutionThread;Info;Log file path: C:\Jakub\Codes\C# scripts\Specflow\AssignmentTask\TestResults\Unnamed project__2021-02-10T150507.log
+2021-02-10T15:05:07.7424978+01:00;Thread#12;Info;Checking activation
+2021-02-10T15:05:07.8444553+01:00;Thread#12;Info;Activated.
+2021-02-10T15:05:07.8447429+01:00;Thread#12;Info;Activation check completed
+2021-02-10T15:05:07.8448284+01:00;Thread#12;Info;Starting test run
+2021-02-10T15:05:07.9409280+01:00;Thread#12;Info;Discovering target: Default
+2021-02-10T15:05:07.9411066+01:00;Thread#12;Info;Discovering tests from assembly: C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\SpecFlowAssignmentTask.Specs.dll
+2021-02-10T15:05:08.0408176+01:00;Thread#12;Info;Discovered tests from assembly: C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\SpecFlowAssignmentTask.Specs.dll
+2021-02-10T15:05:08.0422160+01:00:Test Suite Dump
+2021-02-10T15:05:08.0440587+01:00:#0: Unnamed project/ - 
+2021-02-10T15:05:08.0440778+01:00:#1: Default - 
+2021-02-10T15:05:08.0440820+01:00:#2: SpecFlowAssignmentTask.Specs - 
+2021-02-10T15:05:08.0440853+01:00:#3: Petstore - 
+2021-02-10T15:05:08.0453205+01:00:#4: Order a pet - TestAssembly:SpecFlowAssignmentTask.Specs/Feature:Petstore/Scenario:Order+a+pet
+2021-02-10T15:05:08.0453581+01:00:#5: Create a user - TestAssembly:SpecFlowAssignmentTask.Specs/Feature:Petstore/Scenario:Create+a+user
+2021-02-10T15:05:08.0453705+01:00:#6: Get a user - TestAssembly:SpecFlowAssignmentTask.Specs/Feature:Petstore/Scenario:Get+a+user
+2021-02-10T15:05:08.0453823+01:00:#7: Delete user - TestAssembly:SpecFlowAssignmentTask.Specs/Feature:Petstore/Scenario:Delete+user
+2021-02-10T15:05:08.0454373+01:00:End: Test Suite Dump
+2021-02-10T15:05:08.0640179+01:00:Thread#0:Scheduler: get next test for thread 0
+2021-02-10T15:05:08.0659949+01:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-02-10T15:05:08.0660679+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-02-10T15:05:08.0697872+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-02-10T15:05:08.0697995+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-02-10T15:05:08.0698044+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-02-10T15:05:08.0698083+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-02-10T15:05:08.0704866+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-02-10T15:05:08.0721984+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-02-10T15:05:08.0747392+01:00:Thread #0: creating new test thread executor for SpecFlowAssignmentTask.Specs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-02-10T15:05:08.0775328+01:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-02-10T15:05:08.0777799+01:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-02-10T15:05:08.0807562+01:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2021-02-10T15:05:08.0837686+01:00:starting Out Of Process Executor
+2021-02-10T15:05:08.0863469+01:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-02-10T15:05:08.0903113+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2021-02-10T15:05:08.0903300+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2021-02-10T15:05:08.0920762+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0'
+2021-02-10T15:05:08.0925654+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\Microsoft.VisualStudio.Validation.dll'
+2021-02-10T15:05:08.0926712+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\Microsoft.VisualStudio.Validation.exe'
+2021-02-10T15:05:08.0927413+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0'
+2021-02-10T15:05:08.0930431+01:00:TargetFramework: .NETCoreApp,Version=v5.0
+2021-02-10T15:05:08.0937854+01:00:Tfm: netcoreapp5.0
+2021-02-10T15:05:08.0938005+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-02-10T15:05:08.0938081+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Validation.dll'
+2021-02-10T15:05:08.0939083+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Validation.exe'
+2021-02-10T15:05:08.0939851+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-02-10T15:05:08.1027669+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2'
+2021-02-10T15:05:08.1027901+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2\Microsoft.VisualStudio.Validation.dll'
+2021-02-10T15:05:08.1028845+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2\Microsoft.VisualStudio.Validation.exe'
+2021-02-10T15:05:08.1029527+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2'
+2021-02-10T15:05:08.1032437+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2'
+2021-02-10T15:05:08.1032546+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2\Microsoft.VisualStudio.Validation.dll'
+2021-02-10T15:05:08.1033296+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2\Microsoft.VisualStudio.Validation.exe'
+2021-02-10T15:05:08.1033970+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2'
+2021-02-10T15:05:08.1036547+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2'
+2021-02-10T15:05:08.1036685+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2\Microsoft.VisualStudio.Validation.dll'
+2021-02-10T15:05:08.1037524+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2\Microsoft.VisualStudio.Validation.exe'
+2021-02-10T15:05:08.1038176+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2'
+2021-02-10T15:05:08.1072798+01:00:Starting callback TCP Rpc server
+2021-02-10T15:05:08.1290064+01:00:Asynchronously starting background TCP Rpc Server on port 32768
+2021-02-10T15:05:08.1290630+01:00:Started callback TCP Rpc server on port 32768
+2021-02-10T15:05:08.1290688+01:00:Starting logger TCP Rpc server
+2021-02-10T15:05:08.1321532+01:00:Asynchronously starting background TCP Rpc Server on port 32769
+2021-02-10T15:05:08.1321809+01:00:Started logger TCP Rpc server on port 32769
+2021-02-10T15:05:08.2341695+01:00:Executing test executor at 'dotnet' 'exec "C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\SpecFlowPlusRunner\net5.0\TechTalk.SpecRun.Framework.Executor.anycpu.net5_0.dll" --remoteRunnerPid 3420 --uniqueId "2021-02-10T150507" --outputFolder "C:\Jakub\Codes\C# scripts\Specflow\AssignmentTask\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0'
+2021-02-10T15:05:08.2442593+01:00:Executor with PID 12500 has been started successfully.
+2021-02-10T15:05:08.2480595+01:00:Out of Process Executor 12500 started
+2021-02-10T15:05:08.2480792+01:00:Waiting for endpoint
+2021-02-10T15:05:08.6513057+01:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-02-10T15:05:08.6513422+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2021-02-10T15:05:08.6513476+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2021-02-10T15:05:08.6513564+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0'
+2021-02-10T15:05:08.6513617+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\Microsoft.VisualStudio.Threading.dll'
+2021-02-10T15:05:08.6514167+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\Microsoft.VisualStudio.Threading.exe'
+2021-02-10T15:05:08.6514716+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0'
+2021-02-10T15:05:08.6514777+01:00:TargetFramework: .NETCoreApp,Version=v5.0
+2021-02-10T15:05:08.6515058+01:00:Tfm: netcoreapp5.0
+2021-02-10T15:05:08.6515140+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-02-10T15:05:08.6515206+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Threading.dll'
+2021-02-10T15:05:08.6516031+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Threading.exe'
+2021-02-10T15:05:08.6516710+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-02-10T15:05:08.6521902+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2'
+2021-02-10T15:05:08.6522010+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2\Microsoft.VisualStudio.Threading.dll'
+2021-02-10T15:05:08.6522792+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2\Microsoft.VisualStudio.Threading.exe'
+2021-02-10T15:05:08.6523343+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.2'
+2021-02-10T15:05:08.6525000+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2'
+2021-02-10T15:05:08.6525106+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2\Microsoft.VisualStudio.Threading.dll'
+2021-02-10T15:05:08.6525660+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2\Microsoft.VisualStudio.Threading.exe'
+2021-02-10T15:05:08.6526187+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.2'
+2021-02-10T15:05:08.6528577+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2'
+2021-02-10T15:05:08.6528676+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2\Microsoft.VisualStudio.Threading.dll'
+2021-02-10T15:05:08.6529340+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2\Microsoft.VisualStudio.Threading.exe'
+2021-02-10T15:05:08.6529902+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.2'
+2021-02-10T15:05:08.8991378+01:00:Remote executor port received: 32770
+2021-02-10T15:05:08.8995415+01:00:Creating executor TCP client on port 32770
+2021-02-10T15:05:08.9000182+01:00:Created executor TCP client on port 32770
+2021-02-10T15:05:08.9000283+01:00:Connecting to remote executor TCP server
+2021-02-10T15:05:08.9011583+01:00:Connected remote executor TCP server
+2021-02-10T15:05:08.9013504+01:00:trying to connect to Out of Process Executor the 1 attempt
+2021-02-10T15:05:08.9013686+01:00:Connection to Out of Process Executor established in the 1 attempt
+2021-02-10T15:05:09.0681560+01:00:2021-02-10T15:05:09.0667832+01:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\SpecFlowAssignmentTask.Specs.dll on test thread #0
+2021-02-10T15:05:09.0743268+01:00:Endpoint 12500 started
+2021-02-10T15:05:09.0957361+01:00:2021-02-10T15:05:09.0953304+01:00:OutOfProcessTestAssemblyExecutor: running tests...
+2021-02-10T15:05:09.2409967+01:00:2021-02-10T15:05:09.2405210+01:00:Assembly resolving TechTalk.SpecFlow, Version=3.6.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-02-10T15:05:09.2449900+01:00:2021-02-10T15:05:09.2445609+01:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2021-02-10T15:05:09.2481433+01:00:2021-02-10T15:05:09.2477830+01:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\Ja-k-ub\.nuget\packages\specflow\3.6.23\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2021-02-10T15:05:09.3763722+01:00:2021-02-10T15:05:09.3758255+01:00:Thread#0:T:-> Loading plugin C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\SpecFlowAssignmentTask.Specs.dll
+2021-02-10T15:05:09.3777490+01:00:2021-02-10T15:05:09.3774451+01:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in SpecFlowAssignmentTask.Specs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-02-10T15:05:09.3783625+01:00:2021-02-10T15:05:09.3780872+01:00:Thread#0:T:-> Loading plugin C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\LivingDoc.SpecFlowPlugin.dll
+2021-02-10T15:05:09.3795731+01:00:2021-02-10T15:05:09.3791552+01:00:Assembly resolving TechTalk.SpecFlow, Version=3.6.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-02-10T15:05:09.3806316+01:00:2021-02-10T15:05:09.3803692+01:00:Assembly resolving LivingDoc.Dtos, Version=3.6.0.0, Culture=neutral, PublicKeyToken=null
+2021-02-10T15:05:09.3810752+01:00:2021-02-10T15:05:09.3808450+01:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2021-02-10T15:05:09.3818359+01:00:2021-02-10T15:05:09.3816153+01:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\Ja-k-ub\.nuget\packages\specflow.plus.livingdocplugin\3.6.6\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2021-02-10T15:05:09.3851417+01:00:2021-02-10T15:05:09.3848455+01:00:Thread#0:T:-> Loading plugin C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-02-10T15:05:09.3861018+01:00:2021-02-10T15:05:09.3858616+01:00:Assembly resolving TechTalk.SpecFlow, Version=3.6.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-02-10T15:05:09.3965057+01:00:2021-02-10T15:05:09.3961731+01:00:Thread#0:T:-> Using default config
+2021-02-10T15:05:09.4090886+01:00:2021-02-10T15:05:09.4086572+01:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2021-02-10T15:05:09.4096040+01:00:2021-02-10T15:05:09.4093693+01:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2021-02-10T15:05:09.4102879+01:00:2021-02-10T15:05:09.4100335+01:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\Ja-k-ub\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2021-02-10T15:05:09.4118731+01:00:2021-02-10T15:05:09.4115786+01:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2021-02-10T15:05:09.4122856+01:00:2021-02-10T15:05:09.4120702+01:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2021-02-10T15:05:09.4128334+01:00:2021-02-10T15:05:09.4126379+01:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\Ja-k-ub\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2021-02-10T15:05:09.4228923+01:00:2021-02-10T15:05:09.4225328+01:00:Assembly resolving RestSharp, Version=106.11.7.0, Culture=neutral, PublicKeyToken=598062e77f915f75
+2021-02-10T15:05:09.4234400+01:00:2021-02-10T15:05:09.4231544+01:00:[AssemblyCache] Trying to resolve 'RestSharp' from .deps.json file
+2021-02-10T15:05:09.4241813+01:00:2021-02-10T15:05:09.4238674+01:00:[AssemblyCache] Resolved 'RestSharp' to 'C:\Users\Ja-k-ub\.nuget\packages\restsharp\106.11.7\lib\netstandard2.0\RestSharp.dll'
+2021-02-10T15:05:09.4268177+01:00:2021-02-10T15:05:09.4264770+01:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-02-10T15:05:09.4272056+01:00:2021-02-10T15:05:09.4270138+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2021-02-10T15:05:09.4279631+01:00:2021-02-10T15:05:09.4276937+01:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\Ja-k-ub\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2021-02-10T15:05:09.4593871+01:00:2021-02-10T15:05:09.4589994+01:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2021-02-10T15:05:09.4598096+01:00:2021-02-10T15:05:09.4596232+01:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2021-02-10T15:05:09.4604644+01:00:2021-02-10T15:05:09.4601903+01:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\Ja-k-ub\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2021-02-10T15:05:09.7146781+01:00:Thread#0: Test #4/0 is started on thread #0
+2021-02-10T15:05:09.7463735+01:00:2021-02-10T15:05:09.7459816+01:00:Thread#0:B:Given the base url is "https://petstore.swagger.io/v2/"
+2021-02-10T15:05:09.7629575+01:00:2021-02-10T15:05:09.7624525+01:00:Assembly resolving AssignmentTask, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2021-02-10T15:05:09.7633838+01:00:2021-02-10T15:05:09.7632092+01:00:[AssemblyCache] Trying to resolve 'AssignmentTask' from .deps.json file
+2021-02-10T15:05:09.7646087+01:00:2021-02-10T15:05:09.7642932+01:00:[DependencyContextAssemblyCache.ResolveManagedAssembly] Resolving 'AssignmentTask', found in dependency map, but unable to resolve a path in ['AssignmentTask.dll']
+2021-02-10T15:05:09.7650396+01:00:2021-02-10T15:05:09.7648264+01:00:[AssemblyCache] Could not resolve 'AssignmentTask' from .deps.json
+2021-02-10T15:05:09.7669841+01:00:2021-02-10T15:05:09.7667115+01:00:[AssemblyCache] Trying to resolve 'AssignmentTask' in folder 'C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0'
+2021-02-10T15:05:09.7719603+01:00:2021-02-10T15:05:09.7716491+01:00:[AssemblyCache] Trying to resolve 'AssignmentTask' to 'C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\AssignmentTask.dll'
+2021-02-10T15:05:09.7725924+01:00:2021-02-10T15:05:09.7723278+01:00:[AssemblyCache] Found file 'C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\AssignmentTask.dll' for assembly 'AssignmentTask'
+2021-02-10T15:05:09.7736995+01:00:2021-02-10T15:05:09.7734042+01:00:[AssemblyCache] Resolved 'AssignmentTask' to C:\Jakub\Codes\C# scripts\Specflow\SpecFlowAssignmentTask.Specs\bin\Debug\net5.0\AssignmentTask.dll
+2021-02-10T15:05:09.7815060+01:00:2021-02-10T15:05:09.7811386+01:00:Thread#0:T:done: PetstoreSteps.GivenTheBaseUrlIs("https://petstore....") (0.0s)
+2021-02-10T15:05:09.7841257+01:00:2021-02-10T15:05:09.7838633+01:00:Thread#0:B:* the pets id is 0
+2021-02-10T15:05:09.7872581+01:00:2021-02-10T15:05:09.7869987+01:00:Thread#0:T:done: PetstoreSteps.GivenThePetsIdIs(0) (0.0s)
+2021-02-10T15:05:09.7877194+01:00:2021-02-10T15:05:09.7875099+01:00:Thread#0:B:* the pets petId is 0
+2021-02-10T15:05:09.7888952+01:00:2021-02-10T15:05:09.7886193+01:00:Thread#0:T:done: PetstoreSteps.GivenThePetsPetIdIs(0) (0.0s)
+2021-02-10T15:05:09.7893122+01:00:2021-02-10T15:05:09.7891146+01:00:Thread#0:B:* the pets shipDate is "2021-02-10T02:14:52.989Z"
+2021-02-10T15:05:09.7907233+01:00:2021-02-10T15:05:09.7901729+01:00:Thread#0:T:done: PetstoreSteps.GivenThePetsShipDateIs("2021-02-10T02:14:...") (0.0s)
+2021-02-10T15:05:09.7912251+01:00:2021-02-10T15:05:09.7909858+01:00:Thread#0:B:* the pets status is "placed"
+2021-02-10T15:05:09.7924700+01:00:2021-02-10T15:05:09.7921822+01:00:Thread#0:T:done: PetstoreSteps.GivenThePetsStatusIs("placed") (0.0s)
+2021-02-10T15:05:09.7929318+01:00:2021-02-10T15:05:09.7927007+01:00:Thread#0:B:* the pets complete is "true"
+2021-02-10T15:05:09.7945649+01:00:2021-02-10T15:05:09.7942967+01:00:Thread#0:T:done: PetstoreSteps.GivenThePetsCompleteIs(True) (0.0s)
+2021-02-10T15:05:09.7951417+01:00:2021-02-10T15:05:09.7949230+01:00:Thread#0:B:But the uri path is "store/orders"
+2021-02-10T15:05:09.7962418+01:00:2021-02-10T15:05:09.7960076+01:00:Thread#0:T:done: PetstoreSteps.GivenTheEndPointIs("store/orders") (0.0s)
+2021-02-10T15:05:09.7969267+01:00:2021-02-10T15:05:09.7967237+01:00:Thread#0:B:When the order is placed
+2021-02-10T15:05:10.4724491+01:00:2021-02-10T15:05:10.4719883+01:00:Thread#0:T:done: PetstoreSteps.WhenTheOrderIsPlaced() (0.7s)
+2021-02-10T15:05:10.4735279+01:00:2021-02-10T15:05:10.4731760+01:00:Thread#0:B:Then the response status code should be 404
+2021-02-10T15:05:10.4753342+01:00:2021-02-10T15:05:10.4750706+01:00:Assembly resolving FluentAssertions, Version=5.10.3.0, Culture=neutral, PublicKeyToken=33f2691a05b67b6a
+2021-02-10T15:05:10.4758231+01:00:2021-02-10T15:05:10.4755945+01:00:[AssemblyCache] Trying to resolve 'FluentAssertions' from .deps.json file
+2021-02-10T15:05:10.4765323+01:00:2021-02-10T15:05:10.4762404+01:00:[AssemblyCache] Resolved 'FluentAssertions' to 'C:\Users\Ja-k-ub\.nuget\packages\fluentassertions\5.10.3\lib\netcoreapp2.1\FluentAssertions.dll'
+2021-02-10T15:05:10.4814614+01:00:2021-02-10T15:05:10.4811465+01:00:Thread#0:T:done: PetstoreSteps.ThenTheResponseStatusCodeShouldBe(404) (0.0s)
+2021-02-10T15:05:10.4935067+01:00:Thread#0:Scheduler: get next test for thread 0
+2021-02-10T15:05:10.4935380+01:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2021-02-10T15:05:10.4935415+01:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-02-10T15:05:10.4936411+01:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-02-10T15:05:10.4936482+01:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-02-10T15:05:10.4936509+01:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-02-10T15:05:10.4936535+01:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-02-10T15:05:10.4936849+01:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-02-10T15:05:10.4936993+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-02-10T15:05:10.5521893+01:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 0.8364625 seconds
+2021-02-10T15:05:10.5550972+01:00:Thread#0: Test #5/0 is started on thread #0
+2021-02-10T15:05:10.5570355+01:00:2021-02-10T15:05:10.5567835+01:00:Thread#0:B:Given the base url is "https://petstore.swagger.io/v2/"
+2021-02-10T15:05:10.5578394+01:00:2021-02-10T15:05:10.5574876+01:00:Thread#0:T:done: PetstoreSteps.GivenTheBaseUrlIs("https://petstore....") (0.0s)
+2021-02-10T15:05:10.5584370+01:00:2021-02-10T15:05:10.5581372+01:00:Thread#0:B:* the uri path is "user"
+2021-02-10T15:05:10.5591628+01:00:2021-02-10T15:05:10.5589025+01:00:Thread#0:T:done: PetstoreSteps.GivenTheEndPointIs("user") (0.0s)
+2021-02-10T15:05:10.5596494+01:00:2021-02-10T15:05:10.5594211+01:00:Thread#0:B:* the users id is 0
+2021-02-10T15:05:10.5610788+01:00:2021-02-10T15:05:10.5607707+01:00:Thread#0:T:done: PetstoreSteps.GivenTheUsersIdIs(0) (0.0s)
+2021-02-10T15:05:10.5615793+01:00:2021-02-10T15:05:10.5613651+01:00:Thread#0:B:* the users username is "Steavy"
+2021-02-10T15:05:10.5628282+01:00:2021-02-10T15:05:10.5625939+01:00:Thread#0:T:done: PetstoreSteps.GivenTheUsersUsernameIs("Steavy") (0.0s)
+2021-02-10T15:05:10.5633053+01:00:2021-02-10T15:05:10.5630900+01:00:Thread#0:B:* the users firstName is "Steven"
+2021-02-10T15:05:10.5645719+01:00:2021-02-10T15:05:10.5642957+01:00:Thread#0:T:done: PetstoreSteps.GivenTheUsersFirstNameIs("Steven") (0.0s)
+2021-02-10T15:05:10.5652631+01:00:2021-02-10T15:05:10.5649298+01:00:Thread#0:B:* the users lastName is "Thomson"
+2021-02-10T15:05:10.5670015+01:00:2021-02-10T15:05:10.5666958+01:00:Thread#0:T:done: PetstoreSteps.GivenTheUsersLastNameIs("Thomson") (0.0s)
+2021-02-10T15:05:10.5675520+01:00:2021-02-10T15:05:10.5673112+01:00:Thread#0:B:* the users email is "sthomson@localhost.com"
+2021-02-10T15:05:10.5688634+01:00:2021-02-10T15:05:10.5685068+01:00:Thread#0:T:done: PetstoreSteps.GivenTheUsersEmailIs("sthomson@localhos...") (0.0s)
+2021-02-10T15:05:10.5693622+01:00:2021-02-10T15:05:10.5691241+01:00:Thread#0:B:* the users password is "thomson1990"
+2021-02-10T15:05:10.5706572+01:00:2021-02-10T15:05:10.5702026+01:00:Thread#0:T:done: PetstoreSteps.GivenTheUsersPasswordIs("thomson1990") (0.0s)
+2021-02-10T15:05:10.5711235+01:00:2021-02-10T15:05:10.5709197+01:00:Thread#0:B:* the users phone is "421123456"
+2021-02-10T15:05:10.5721704+01:00:2021-02-10T15:05:10.5719680+01:00:Thread#0:T:done: PetstoreSteps.GivenTheUsersPhoneIs("421123456") (0.0s)
+2021-02-10T15:05:10.5725759+01:00:2021-02-10T15:05:10.5723937+01:00:Thread#0:B:* the users userStatus is 0
+2021-02-10T15:05:10.5740060+01:00:2021-02-10T15:05:10.5736878+01:00:Thread#0:T:done: PetstoreSteps.GivenTheUsersUserStatusIs(0) (0.0s)
+2021-02-10T15:05:10.5747146+01:00:2021-02-10T15:05:10.5743823+01:00:Thread#0:B:When user is created
+2021-02-10T15:05:11.1551131+01:00:2021-02-10T15:05:11.1546391+01:00:Thread#0:T:done: PetstoreSteps.WhenUserIsCreated() (0.6s)
+2021-02-10T15:05:11.1608979+01:00:2021-02-10T15:05:11.1555149+01:00:Thread#0:B:Then the response status code should be 200
+2021-02-10T15:05:11.1618060+01:00:2021-02-10T15:05:11.1615276+01:00:Thread#0:T:done: PetstoreSteps.ThenTheResponseStatusCodeShouldBe(200) (0.0s)
+2021-02-10T15:05:11.1630314+01:00:Thread#0:Scheduler: get next test for thread 0
+2021-02-10T15:05:11.1630456+01:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2021-02-10T15:05:11.1630499+01:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2021-02-10T15:05:11.1630818+01:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2021-02-10T15:05:11.1630861+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2021-02-10T15:05:11.1630890+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2021-02-10T15:05:11.1630918+01:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2021-02-10T15:05:11.1631120+01:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2021-02-10T15:05:11.1631238+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-02-10T15:05:11.1657548+01:00:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 0.6105995 seconds
+2021-02-10T15:05:11.1662969+01:00:Thread#0: Test #6/0 is started on thread #0
+2021-02-10T15:05:11.1680863+01:00:2021-02-10T15:05:11.1677923+01:00:Thread#0:B:Given the base url is "https://petstore.swagger.io/v2/"
+2021-02-10T15:05:11.1686348+01:00:2021-02-10T15:05:11.1684486+01:00:Thread#0:T:done: PetstoreSteps.GivenTheBaseUrlIs("https://petstore....") (0.0s)
+2021-02-10T15:05:11.1690060+01:00:2021-02-10T15:05:11.1688395+01:00:Thread#0:B:And the partial uri path is "user/"
+2021-02-10T15:05:11.1701799+01:00:2021-02-10T15:05:11.1699748+01:00:Thread#0:T:done: PetstoreSteps.GivenThePartialUriPathIs("user/") (0.0s)
+2021-02-10T15:05:11.1705867+01:00:2021-02-10T15:05:11.1703909+01:00:Thread#0:B:And username is "Steavy"
+2021-02-10T15:05:11.1715833+01:00:2021-02-10T15:05:11.1713835+01:00:Thread#0:T:done: PetstoreSteps.GivenUsernameIs("Steavy") (0.0s)
+2021-02-10T15:05:11.1720734+01:00:2021-02-10T15:05:11.1718922+01:00:Thread#0:B:When the request is made
+2021-02-10T15:05:11.6967395+01:00:2021-02-10T15:05:11.6963465+01:00:Thread#0:T:done: PetstoreSteps.WhenTheRequestIsMade() (0.5s)
+2021-02-10T15:05:11.6972651+01:00:2021-02-10T15:05:11.6970949+01:00:Thread#0:B:Then the response status code should be 200
+2021-02-10T15:05:11.6978682+01:00:2021-02-10T15:05:11.6976461+01:00:Thread#0:T:done: PetstoreSteps.ThenTheResponseStatusCodeShouldBe(200) (0.0s)
+2021-02-10T15:05:11.6983764+01:00:2021-02-10T15:05:11.6981731+01:00:Thread#0:B:And the post and get response content matches
+2021-02-10T15:05:11.6999918+01:00:2021-02-10T15:05:11.6997981+01:00:Thread#0:T:done: PetstoreSteps.ThenThePostAndGetResponseContentMatches() (0.0s)
+2021-02-10T15:05:11.7008581+01:00:Thread#0:Scheduler: get next test for thread 0
+2021-02-10T15:05:11.7008699+01:00:Thread#:Scheduler: testitem #7 from normal test queue 
+2021-02-10T15:05:11.7008849+01:00:Thread#0:Scheduler: considering testitem #7 for thread 0
+2021-02-10T15:05:11.7009048+01:00:Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+2021-02-10T15:05:11.7009090+01:00:Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+2021-02-10T15:05:11.7009115+01:00:Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+2021-02-10T15:05:11.7009145+01:00:Thread#0:Scheduler: using testitem #7 for thread 0
+2021-02-10T15:05:11.7009263+01:00:Thread#0:Scheduler: Test #7 is scheduled for thread
+2021-02-10T15:05:11.7009383+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-02-10T15:05:11.7026414+01:00:Thread#0: Test #6/0 is finished on thread #0 as Succeeded within 0.5363149 seconds
+2021-02-10T15:05:11.7031179+01:00:Thread#0: Test #7/0 is started on thread #0
+2021-02-10T15:05:11.7048979+01:00:2021-02-10T15:05:11.7046786+01:00:Thread#0:B:Given the base url is "https://petstore.swagger.io/v2/"
+2021-02-10T15:05:11.7053904+01:00:2021-02-10T15:05:11.7051952+01:00:Thread#0:T:done: PetstoreSteps.GivenTheBaseUrlIs("https://petstore....") (0.0s)
+2021-02-10T15:05:11.7057347+01:00:2021-02-10T15:05:11.7055661+01:00:Thread#0:B:And the partial uri path is "user/"
+2021-02-10T15:05:11.7061311+01:00:2021-02-10T15:05:11.7059675+01:00:Thread#0:T:done: PetstoreSteps.GivenThePartialUriPathIs("user/") (0.0s)
+2021-02-10T15:05:11.7065224+01:00:2021-02-10T15:05:11.7063284+01:00:Thread#0:B:And username is "Steavy"
+2021-02-10T15:05:11.7069842+01:00:2021-02-10T15:05:11.7067870+01:00:Thread#0:T:done: PetstoreSteps.GivenUsernameIs("Steavy") (0.0s)
+2021-02-10T15:05:11.7073266+01:00:2021-02-10T15:05:11.7071628+01:00:Thread#0:B:But request method is put
+2021-02-10T15:05:11.7082203+01:00:2021-02-10T15:05:11.7080383+01:00:Thread#0:T:done: PetstoreSteps.GivenRequestMethodIsPut() (0.0s)
+2021-02-10T15:05:11.7085911+01:00:2021-02-10T15:05:11.7084242+01:00:Thread#0:B:When delete is requested
+2021-02-10T15:05:12.2470465+01:00:2021-02-10T15:05:12.2467097+01:00:Thread#0:T:done: PetstoreSteps.WhenDeleteIsRequested() (0.5s)
+2021-02-10T15:05:12.2474712+01:00:2021-02-10T15:05:12.2473209+01:00:Thread#0:B:Then the response status code should be 415
+2021-02-10T15:05:12.2479075+01:00:2021-02-10T15:05:12.2477563+01:00:Thread#0:T:done: PetstoreSteps.ThenTheResponseStatusCodeShouldBe(415) (0.0s)
+2021-02-10T15:05:12.2487123+01:00:Thread#0:Scheduler: get next test for thread 0
+2021-02-10T15:05:12.2487308+01:00:Thread#:Scheduler: at the end of normal test queue
+2021-02-10T15:05:12.2487340+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-02-10T15:05:12.2487369+01:00:Thread#0:Scheduler: No more tests for thread
+2021-02-10T15:05:12.2520121+01:00:Thread#0: Test #7/0 is finished on thread #0 as Succeeded within 0.5488599 seconds
+2021-02-10T15:05:12.2586387+01:00:2021-02-10T15:05:12.2584053+01:00:Got Deinitialize Signal
+2021-02-10T15:05:12.2624756+01:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-02-10T15:05:12.2629253+01:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-02-10T15:05:12.2638485+01:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-02-10T15:05:12.2733344+01:00:Thread#-1:Scheduler: get next test for thread -1
+2021-02-10T15:05:12.2733559+01:00:Thread#:Scheduler: at the end of normal test queue
+2021-02-10T15:05:12.2733591+01:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-02-10T15:05:12.2754474+01:00;Thread#12;Info;test run finished
+2021-02-10T15:05:12.2755943+01:00;Thread#12;Info;publishing test results
+2021-02-10T15:05:12.2757522+01:00;Thread#12;Info;Not publishing results.
+2021-02-10T15:05:12.2759650+01:00;Thread#12;Info;test results published
+2021-02-10T15:05:12.2761892+01:00;Thread#12;Info;generating reports
+2021-02-10T15:05:12.3778417+01:00;Thread#12;Info;Starting external report generation process
+2021-02-10T15:05:14.2341294+01:00;Thread#12;Info;Successfully generated reports.
+2021-02-10T15:05:14.2360795+01:00;Thread#12;Info;Successfully generated reports
+2021-02-10T15:05:14.2428531+01:00:Total: 4
+2021-02-10T15:05:14.2447207+01:00:Succeeded: 4
+2021-02-10T15:05:14.2451143+01:00:Ignored: 0
+2021-02-10T15:05:14.2454269+01:00:Pending: 0
+2021-02-10T15:05:14.2454349+01:00:Skipped: 0
+2021-02-10T15:05:14.2457141+01:00:Failed: 0
+2021-02-10T15:05:14.2522027+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-02-10T15:05:14.2523169+01:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Jakub\Codes\C# scripts\Specflow\AssignmentTask\TestResults\Unnamed project__2021-02-10T150507.html'
+========== End of log file ==========

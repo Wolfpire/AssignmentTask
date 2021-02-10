@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentTask", "AssignmentTask.csproj", "{9E432940-9258-4913-A92E-BF59A485E8C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowAssignmentTask.Specs", "..\SpecFlowAssignmentTask.Specs\SpecFlowAssignmentTask.Specs.csproj", "{BE3F12FE-B42D-4BAC-84E3-9CFA47EAF565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E432940-9258-4913-A92E-BF59A485E8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E432940-9258-4913-A92E-BF59A485E8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E432940-9258-4913-A92E-BF59A485E8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E432940-9258-4913-A92E-BF59A485E8C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE3F12FE-B42D-4BAC-84E3-9CFA47EAF565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3F12FE-B42D-4BAC-84E3-9CFA47EAF565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3F12FE-B42D-4BAC-84E3-9CFA47EAF565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3F12FE-B42D-4BAC-84E3-9CFA47EAF565}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ABBB22E-EE59-413F-81E0-8EB3C0FE270C}
+	EndGlobalSection
+EndGlobal

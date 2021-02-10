@@ -1,0 +1,8 @@
+C:\Jakub\Codes\C# scripts\Specflow\AssignmentTask\bin\Debug\netcoreapp3.1\AssignmentTask.deps.json
+C:\Jakub\Codes\C# scripts\Specflow\AssignmentTask\bin\Debug\netcoreapp3.1\AssignmentTask.dll
+C:\Jakub\Codes\C# scripts\Specflow\AssignmentTask\bin\Debug\netcoreapp3.1\AssignmentTask.pdb
+C:\Jakub\Codes\C# scripts\Specflow\AssignmentTask\obj\Debug\netcoreapp3.1\AssignmentTask.AssemblyInfoInputs.cache
+C:\Jakub\Codes\C# scripts\Specflow\AssignmentTask\obj\Debug\netcoreapp3.1\AssignmentTask.AssemblyInfo.cs
+C:\Jakub\Codes\C# scripts\Specflow\AssignmentTask\obj\Debug\netcoreapp3.1\AssignmentTask.csproj.CoreCompileInputs.cache
+C:\Jakub\Codes\C# scripts\Specflow\AssignmentTask\obj\Debug\netcoreapp3.1\AssignmentTask.dll
+C:\Jakub\Codes\C# scripts\Specflow\AssignmentTask\obj\Debug\netcoreapp3.1\AssignmentTask.pdb
